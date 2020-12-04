@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CKKV", "CKKV\CKKV.csproj", "{4AD293F8-0F94-41C4-88A2-267D9446BA1C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CKKV Editor", "CKKV Editor\CKKV Editor.vdproj", "{4D0C75D8-32D3-4342-9513-E12108E97B91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AD293F8-0F94-41C4-88A2-267D9446BA1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AD293F8-0F94-41C4-88A2-267D9446BA1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AD293F8-0F94-41C4-88A2-267D9446BA1C}.Debug|x86.ActiveCfg = Debug|x86
+		{4AD293F8-0F94-41C4-88A2-267D9446BA1C}.Debug|x86.Build.0 = Debug|x86
+		{4AD293F8-0F94-41C4-88A2-267D9446BA1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AD293F8-0F94-41C4-88A2-267D9446BA1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AD293F8-0F94-41C4-88A2-267D9446BA1C}.Release|x86.ActiveCfg = Release|x86
+		{4AD293F8-0F94-41C4-88A2-267D9446BA1C}.Release|x86.Build.0 = Release|x86
+		{4D0C75D8-32D3-4342-9513-E12108E97B91}.Debug|Any CPU.ActiveCfg = Debug
+		{4D0C75D8-32D3-4342-9513-E12108E97B91}.Debug|x86.ActiveCfg = Debug
+		{4D0C75D8-32D3-4342-9513-E12108E97B91}.Release|Any CPU.ActiveCfg = Release
+		{4D0C75D8-32D3-4342-9513-E12108E97B91}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB39C900-3090-4333-9771-02D8A5E24094}
+	EndGlobalSection
+EndGlobal
